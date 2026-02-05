@@ -1,0 +1,47 @@
+# Linux Commands
+
+
+## pwd
+it refers to print working directory and it shows the directory which I am currently working at.
+
+## ls
+it stands for list and this command will list everything such as files and folders present in current directory.
+
+## cd
+it stands for change directory and it is used for navigation as using this we can navigate to any folder 
+ex : cd name of folder : cd Downloads
+cd takes us into the folder and to go back to previous directory we use : cd ..
+To go to root directory we used : cd /
+
+## cp
+it stands for copy and it is used to copy files and paste the same file with different name in same folder.
+it is used to create the copy of file in same folder.
+Example:
+cp file1.txt file2.txt
+
+## rm
+it stands for remove and it is used to remove or delete the file from current folder.
+To remove any file from folder : rm name of file which we want to remove.
+Example:
+rm filename.txt
+
+
+## mkdir
+it stands for make directory and it is used to create new directory.
+
+## rmdir 
+it stands for remove directory and it is used to remove folder which has no files inside it.
+to remove folder which have files in it we use : rm -r name of folder
+
+## touch
+It is used to create an empty file.
+Example:
+touch file1.txt
+
+## cat
+It is used to see what's inside the file
+Example:
+cat file1.txt
+
+
+
